@@ -5,5 +5,5 @@
 > Para rodar ese projeto na sua máquina, por favor digite:
 >
 > ```
-> ode app.js
+> node app.js
 > ```  	
